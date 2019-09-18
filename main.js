@@ -1,4 +1,4 @@
-const resultArray = ["walcz", "przemyśl to jeszcze raz"];
+const resultArray = ["walcz", "przemyśl to jeszcze raz", "spróbuj jeszcze raz"];
 
 const btnAddAdvice = document.querySelector('.add');
 const btnResetAdvice = document.querySelector('.clean');
